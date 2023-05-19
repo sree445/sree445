@@ -1,5 +1,5 @@
-### Hi there 👋
-Hi I'm Sreekanth, Good to have you here! 👋
+### Hi there 👋 Hi I'm Sreekanth, Good to have you here! 👋
+
 I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
 🔭 I’m currently working working as a Senior Data Engineer and building my skills. That means...
