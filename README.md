@@ -1,10 +1,13 @@
 ### Hi there 👋
+Hi I'm Sreekanth, Good to have you here! 👋
+I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
-<!--
-**sree445/sree445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔭 I’m currently working working as a Senior Data Engineer and building my skills. That means...
+💬 I'm looking to collaborate and create some useful content that we can share with the community
+My current skills are: Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Kafka, etc.
 Here are some ideas to get you started:
 
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
