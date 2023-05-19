@@ -2,7 +2,7 @@
 
 I am a Data Engineer with over 12+ years of experience under my belt,I am a tech savvy person with knowledge and expertise in Design and developement of ETL data pipelines with simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
-I earned my B.Tech Degree in Electronics and comm Engineering back in 2009. 
+I did my undergrad(B.Tech Degree) in electronics and communication back in 2009. 
 
 I'm a coding enthusiast, proving my love for analytical thinking and problem-solving. I'm always eager to explore new technological horizons.
 
