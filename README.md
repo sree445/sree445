@@ -2,7 +2,7 @@
 
 I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
-🔭 I’m currently working working as a Senior Data Engineer and building my skills. That means...
+🔭 I’m currently working as a Senior Data Engineer and building my skills. That means...
 
 💬 I'm looking to collaborate and create some useful content that we can share with the community
 
