@@ -4,7 +4,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 
 🔭 I’m currently working working as a Senior Data Engineer and building my skills. That means...
 💬 I'm looking to collaborate and create some useful content that we can share with the community
-My current skills are: Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Kafka, etc.
+My current skills are: Bigdata,Spark(Batch and Streaming ETL),Splunk,GCP(Storage --GCS,Database/Analytics --BigQuery, Spark/Hadoop Workload --Dataproc,compute Engine --EKS, Cloud composer-Airflow,nosql--BigTable,SQL-Cloud SQL,Data Goverance --Dataplex,Visualization--Looker Studio,Data preparation/dangling --DataPrep,Datatransformation--Datafusion,Batch/Steam transformations --Dataflow) ,AWS (EC2,EMR,Glue,Athena, AWS Lambda, S3,RDS,Redshift,Step functions,DMS) Pyspark,Scala, Databricks,Azure SQL, Kafka, etc.
 Here are some ideas to get you started:
 
 <--
