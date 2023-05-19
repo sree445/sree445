@@ -4,17 +4,13 @@ I am a Data Engineer with over 12+ years of experience under my belt,I am a tech
 
 I earned my B.Tech Degree in Electronics and comm Engineering back in 2009. 
 
-I'm a coding enthusiast who's tackled 1500+ LeetCode problems, proving my love for algorithms and problem-solving. My interests range from distributed systems to AI, and I'm always eager to explore new technological horizons.
+I'm a coding enthusiast, proving my love for analytical thinking and problem-solving. I'm always eager to explore new technological horizons.
 
 On a personal level, I'm passionate about self-improvement and personal growth. I believe that we can always learn and grow, both professionally and personally. 
-I love reading books 📗 and listening to podcasts 🎙️
+I love reading books 📗 travelling and watching travelling/food blogs
 
-I'm excited to connect with fellow tech enthusiasts who share the same zeal for innovation and progress. 
-Let's collaborate and make a positive impact together!
 
-I hope you have a lovely day!
-
-🔭 I’m currently working as a Senior Data Engineer and building my skills. I am interested to learn new things and expand technical horizons. and That means...
+🔭 I’m currently working as a Senior Data Engineer and building my skills.  and That means...
 
 💬 I'm looking to collaborate and create some useful content that we can share with the community
 
@@ -25,7 +21,9 @@ Databricks Delta-lake warehouse new features
 DBT for Data modelling
 How to architectect better data system
 
-📫 How to reach me: ...
+📫 How to reach me: Linkedin...
+I'm excited to connect with fellow tech enthusiasts who share the same zeal for innovation and progress. 
+Let's collaborate and make a positive impact together!
 https://www.linkedin.com/in/sreekanth-pampana-000371b6
 
 
