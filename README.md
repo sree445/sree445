@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Sreekanth, Good to have you here!
 
-I am a Data Engineer with over 12+ years of experience under my belt,I am a tech savvy person with knowledge and expertise in Design and developement of ETL data pipelines with simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
+I am a Senior Data Engineer with over 12+ years of experience,I am a tech savvy person with knowledge and expertise in Design and developement of ETL data pipelines with simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
 I did my undergrad(B.Tech Degree) in electronics and communication back in 2009. 
 
