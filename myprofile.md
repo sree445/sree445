@@ -21,13 +21,11 @@ My goal is to leverage my experience and expertise in cloud technologies and dev
 
 ### About My intro(AWS)
 
-12 years of experience in software engineering. started my career as a
-Java / SQL developer.
-was working as a software engineer for 4 years, before then specialising
-in data engineering, so he’s bringing all the strong programming, cloud, and
+12 years of experience in software engineering. started my career as a Java / SQL developer.
+was working as a software engineer for 4 years, before then specialising in data engineering, so he’s bringing all the strong programming, cloud, and
 distributed computing systems, as a prerequisite before moving into data.
 
-He has been using cloud services for 4 years now, back to back. He has on-prem
+● He has been using cloud services for 4 years now, back to back. He has on-prem
 and cloud experience. Also migrating on-prem solutions over to cloud-based
 solutions too.
 
@@ -35,10 +33,9 @@ solutions too.
 engineer to process things. He has strong SQL skills from his first job as a Java
 Oracle PL/SQL Developer.
 
-● When it comes to Data Engineering, and Big Data ecosystem he’s using Python and
-Scala.
+● When it comes to Data Engineering, and Big Data ecosystem using Python and Scala.
 
-● He has some DataOps experience and best practices too, as well as experience with
+● Has some DataOps experience and best practices too, as well as experience with
 DevOps tooling like Terraform.
 
 ● Strong at data warehousing solutions and data modelling.
