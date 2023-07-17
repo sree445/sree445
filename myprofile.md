@@ -60,17 +60,13 @@ postgresql, Databricks,DBT.
 
 ● Distributed data computing & data processing
 ● Batch Processing of large data sets
-● ETL/ELT
-○ 7 years experience in architecting and building ETL solutions, from scratch,
-has a key knowledge interest in this space. experienced in non-cloud & cloud services to 
+
+● ETL/ELT : 7 years experience in architecting and building ETL solutions, from scratch, has a key knowledge interest in this space. experienced in non-cloud & cloud services to 
 support the development.
-● Building real-time data processing/streaming solutions
-○ using the following tech to deliver real time data processing and real time data
-streaming using the following technologies and methologies: Kafka, pub sub
+
+● Building real-time data processing/streaming solutions: real time data processing and real time data streaming using the following technologies and methologies: Kafka, pub sub
 streaming, streaming ingestion pipeline and Apache Beam.
-● Building APIs
-has developed scalable APIs in Scala and Python
-● Tech Leadership / Mentoring Experience
-○ Given that Sree has some leadership experience,happy and comfortable working as an IC (individual
-contributor) but also has the experience to lead, mentor, or coordinate team
-members, if necessary.
+
+● Building APIs :has developed scalable APIs in Scala and Python
+
+● Tech Leadership / Mentoring Experience :Happy and comfortable working as an IC (individual contributor) but also has the experience to lead, mentor, or coordinate team members.
