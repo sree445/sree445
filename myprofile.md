@@ -27,25 +27,32 @@ was working as a software engineer for 4 years, before then specialising
 in data engineering, so he’s bringing all the strong programming, cloud, and
 distributed computing systems, as a prerequisite before moving into data.
 
-● He has been using cloud services for 4 years now, back to back. He has on-prem
+He has been using cloud services for 4 years now, back to back. He has on-prem
 and cloud experience. Also migrating on-prem solutions over to cloud-based
 solutions too.
+
 ● Sree is overall a hands-on data specialist, strong in data modelling, not just a data
 engineer to process things. He has strong SQL skills from his first job as a Java
 Oracle PL/SQL Developer.
+
 ● When it comes to Data Engineering, and Big Data ecosystem he’s using Python and
 Scala.
+
 ● He has some DataOps experience and best practices too, as well as experience with
 DevOps tooling like Terraform.
+
 ● Strong at data warehousing solutions and data modelling.
-● Overall, Sree is very experienced at architecting, building and testing sophisticated
+
+● Overall, very experienced at architecting, building and testing sophisticated
 data pipelines, ETL and distributed data processing and distributed computing
 pipelines.
-● He has some exposure to Data Science models. He’s working alongside data
+
+● Good understanding of Data Science models. He’s working alongside data
 scientists on a daily basis, so has a deep understanding on what’s happening on that
 side.
-●
+
 Technical Compatibility
+
 ● Data Tools in General
 ○ AWS: EMR,Step functions,Event Bridge,Athena,Glue,S3,EC2,RDS,Redshift,Kinesis
 and Amazon Managed Streaming for Apache Kafka
